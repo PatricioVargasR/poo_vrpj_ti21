@@ -8,7 +8,7 @@
 numero1 = 10  # Variable de tipo int
 numero2 = 5  # Variable de tipo int
 
-print("{} + {} =".format(numero1, numero2), (numero1 + numero2))  # 10 + 5 = 15
+print("{} + {} = ".format(numero1, numero2), (numero1 + numero2))  # 10 + 5 = 15
 
 print((numero1 * numero2), "= {} * {} ".format(numero1, numero2))  # 50 = 5 * 10
 
