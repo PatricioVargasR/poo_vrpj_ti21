@@ -1,8 +1,10 @@
 """
     Programa 1
-    Nombre: Patricio de Jesús Vasgas Ramírez
+    Nombre: Patricio de Jesús Vargas Ramírez
     Fecha: 23/01/2023
-    Descripción: Comentarios multilinea, comentarios de una linea y concatenación de cadenas con cadena de caracteres.
+    Descripción: Comentarios multilinea,
+    comentarios de una linea y concatenación
+    de cadenas con cadena de caracteres.
 """
 
 """

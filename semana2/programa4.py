@@ -1,8 +1,10 @@
 """
     Programa 4
-    Nombre: Patricio de Jesús Vasgas Ramírez
+    Nombre: Patricio de Jesús Vargas Ramírez
     Fecha: 26/01/2023
-    Descripción: Acceso a las variables por posición y por nombres
+    Descripción: Acceso a las 
+    variables por posición y 
+    por nombres
 """
 
 numero1 = 10  # Variable de tipo int

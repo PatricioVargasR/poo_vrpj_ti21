@@ -1,6 +1,6 @@
 """
     Programa 2
-    Nombre: Patricio de Jesús Vasgas Ramírez
+    Nombre: Patricio de Jesús Vargas Ramírez
     Fecha: 24/01/2023
     Descripción: Utilizar comando str.format
 """

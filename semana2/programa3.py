@@ -1,8 +1,9 @@
 """
     Programa 3
-    Nombre: Patricio de Jesús Vasgas Ramírez
+    Nombre: Patricio de Jesús Vargas Ramírez
     Fecha: 24/01/2023
-    Descripción: Usar print con operaciones aritméticas(format)
+    Descripción: Usar print con operaciones
+    aritméticas(format)
 """
 
 numero1 = 10  # Variable de tipo int
