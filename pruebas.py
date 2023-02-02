@@ -32,4 +32,4 @@ while True:
       break
     else:  # Pasa a opción de "último" recurso
       print("El valor ingresado no es válido. Intente de nuevo.")
-      continue
+

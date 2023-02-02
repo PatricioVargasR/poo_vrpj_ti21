@@ -11,6 +11,8 @@
 |5.|programa4.py|Acceso a variables por nombre o posicion|
 |6.|programa5.py|Casting de variables y operaciones|
 |7.|programa6.py|Calcular perimetro y area de un triangulo|
+|8.|programa7.py|Area y perimetro, circulo y cuadrado|
+|9.|programa8.py|Sentencia if, elif y else|
 
 
 
