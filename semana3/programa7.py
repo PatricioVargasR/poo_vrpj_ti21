@@ -40,4 +40,3 @@ elif metodo == 2:  # Compara el valor en caso de que haya sido falsa la expresi�
 else:  # Pasa a opción de "último" recurso
   print("La opción que elegiste no exite")  # Imprime un mensaje en caso de no haber coincidencia
   
-  

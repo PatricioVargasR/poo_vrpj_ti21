@@ -25,9 +25,3 @@ print("La divison es: {}".format(division))  # imprime la variable divison
 
 potencia = int(numero1) ** int(numero2)  # Opera potencia con casting
 print("La potencia es: {}".format(potencia))  # imprime la variable potencia
-
-
-
-
-
-

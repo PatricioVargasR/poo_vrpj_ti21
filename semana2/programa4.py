@@ -28,4 +28,4 @@ print("{numero1} + {numero2} = {suma}" .format(numero1=numero1, numero2=numero2,
 
 # print("{numero1} + {numero2} = ".format(numero1, numero2, numero1 + numero2))  # 10 + 5 = 15
 
-# KeyError es por que no encuentra el nombre de la variable      
+# KeyError es por que no encuentra el nombre de la variable     
