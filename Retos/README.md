@@ -5,7 +5,7 @@
 
 |No.|Archivo|Descripción|
 |--|--|--|
-|1.|Numeropar_impar.py|Hola mundo en python|
+|1.|reto1.py|Número par o impar|
 
 
 
