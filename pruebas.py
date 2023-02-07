@@ -1,3 +1,4 @@
+"""
 print("Calcular área y perímetro de un círculo o cuadrado") # Imprime la función del program
 print("Seleccione una forma para calcular") # Imprime indicación
 
@@ -32,4 +33,15 @@ while True:
       break
     else:  # Pasa a opción de "último" recurso
       print("El valor ingresado no es válido. Intente de nuevo.")
+"""
+n1 = int(input("Numero 1: "))
+n2 = int(input("Numero 2: "))
 
+if n1 != n2:
+    if n1>n2:
+        print(n1)
+    else:
+        print(n2)
+else:
+    print(None)
+     
