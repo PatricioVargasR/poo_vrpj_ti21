@@ -13,6 +13,7 @@
 |7.|programa6.py|Calcular perimetro y area de un triangulo|
 |8.|programa7.py|Area y perimetro, circulo y cuadrado|
 |9.|programa8.py|Sentencia if, elif y else|
+|10.|programa9.py|11 formas diferentes|
 
 
 
