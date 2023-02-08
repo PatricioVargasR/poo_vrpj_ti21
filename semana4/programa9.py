@@ -7,10 +7,8 @@
     igual
 """
 
-
-n1 = int(input("Número 1: "))
+n1 = int(input("Número 1: "))  # Pide un valor desde el teclado
 n2 = int(input("Número 2: "))
-
 
 # Forma 1
 if n1 > n2:
@@ -19,7 +17,7 @@ if n2 > n1:
     print(n2)
 if n1 == n2:
     print(None)
-        
+    
 # Forma 2
 if n2 > n1:
     print(n2)
