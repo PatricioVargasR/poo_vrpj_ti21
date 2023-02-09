@@ -8,7 +8,7 @@
 """
 
 n1 = int(input("Número 1: "))  # Pide un valor desde el teclado
-n2 = int(input("Número 2: "))
+n2 = int(input("Número 2: "))  # Pide un valor desde el teclado
 
 # Forma 1
 if n1 > n2:

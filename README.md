@@ -14,6 +14,8 @@
 |8.|programa7.py|Area y perimetro, circulo y cuadrado|
 |9.|programa8.py|Sentencia if, elif y else|
 |10.|programa9.py|11 formas diferentes|
+|11.|programa10.py|8 formas con funciones|
+|12.|programa11.py|8 formas con funciones pythonic|
 
 
 
