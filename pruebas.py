@@ -1,47 +1,13 @@
-"""
-print("Calcular área y perímetro de un círculo o cuadrado") # Imprime la función del program
-print("Seleccione una forma para calcular") # Imprime indicación
+height = float(input("Ingresa altura"))
+weight = float(input("Ingresa peso"))
 
-while True:
-    metodo = input("Ingrese 1 para elegir cuadrado o 2 para elegir circulo: ") # Pide un valor en el teclado
-    try:
-      metodo = int(metodo)
-    except ValueError:
-      print("El valor ingresado no es un número. Intente de nuevo.")
-      continue
-    if metodo == 1:  # Compara el valor ingresado en el teclado
-      while True:
-        lado1 = input("Ingresa la medida de un lado: ")  # Se pide que ingrese el valor de un lado
-        try:
-          lado1 = float(lado1)
-          break
-        except ValueError:
-          print("El valor ingresado no es un número. Intente de nuevo.")
-          continue
-      print(lado1)
-      break
-    elif metodo == 2:  # Compara el valor en caso de que haya sido falsa la expresión anterior
-      while True:
-        radio = input("Ingresa la medida del radio: ")  # Pide el valor del radio 
-        try:
-          radio = float(radio)
-          break
-        except ValueError:
-          print("El valor ingresado no es un número. Intente de nuevo.")
-          continue
-      print(radio)
-      break
-    else:  # Pasa a opción de "último" recurso
-      print("El valor ingresado no es válido. Intente de nuevo.")
-"""
-n1 = int(input("Numero 1: "))
-n2 = int(input("Numero 2: "))
+bmi = weight/(height**2)
 
-if n1 != n2:
-    if n1>n2:
-        print(n1)
-    else:
-        print(n2)
+if bmi < 18.5:
+    print("Underweight")
+elif bmi >= 18.5 and bmi < 25:
+    print("Normal")
+elif bmi >= 25 and bmi < 30:
+    print("Overweigth")
 else:
-    print(None)
-     
+    print("Obesity")

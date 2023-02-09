@@ -9,6 +9,8 @@
 |2.|reto2.py|Celcius a Fahrenheit|
 |3.|reto3.py|Minimo Común Multiplo|
 |4.|reto4.py|Factorial de un número|
+|5.|reto5.py|Calcular la media de n numeros|
+|6.|reto6.py|Indice de Masa Corporal|
 
 
 
