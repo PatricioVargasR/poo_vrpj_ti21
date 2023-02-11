@@ -12,7 +12,7 @@
 |5.|reto5.py|Calcular la media de n numeros|
 |6.|reto6.py|Indice de Masa Corporal|
 |7.|reto7.py|Números descendentes|
-
+|8.|reto8.py|Rango con saltos|
 
 
 
