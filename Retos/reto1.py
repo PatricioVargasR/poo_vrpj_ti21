@@ -15,4 +15,3 @@ elif elevado > 0:  # En cambio, si la sentencia es falsa, evalua de nuevo
     print("Par")  # Imprime la cadena "Par"
 else:   # Si ninguna de las anteriores se cumplió, ejecuta esta
     print("Impar")  # Imprime la cadena "Impar"
-
