@@ -13,6 +13,7 @@
 |6.|reto6.py|Indice de Masa Corporal|
 |7.|reto7.py|Números descendentes|
 |8.|reto8.py|Rango con saltos|
+|9.|reto9.py|Sumar sin sumar
 
 
 
