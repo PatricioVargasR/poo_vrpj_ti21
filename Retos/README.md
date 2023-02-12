@@ -14,6 +14,7 @@
 |7.|reto7.py|Números descendentes|
 |8.|reto8.py|Rango con saltos|
 |9.|reto9.py|Sumar sin sumar|
+|10.|reto10.py|Cantidad de palabras|
 
 
 
