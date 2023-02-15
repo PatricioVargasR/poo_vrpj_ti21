@@ -16,5 +16,6 @@
 |9.|reto9.py|Sumar sin sumar|
 |10.|reto10.py|Cantidad de palabras|
 |11.|reto11.py|Uso de las clases|
+|12.|reto12.py|Herencia|
 
 
