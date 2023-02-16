@@ -17,5 +17,7 @@
 |10.|reto10.py|Cantidad de palabras|
 |11.|reto11.py|Uso de las clases|
 |12.|reto12.py|Herencia|
+|13.|reto13.py|¿Cuántas veces aparece la letra?|
+
 
 
