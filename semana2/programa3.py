@@ -17,8 +17,8 @@ print("{} = {} * {}".format((numero1 * numero2), numero1, numero2))  # 50 = 5 * 
 
 print("El resultado de dividir {} / {} es".format(numero1, numero2), (numero1 / numero2))  # El resultado de dividr 10 / 5 es 2
 
-#suma = numero1+numero2
-#print("{} + {} =" .format(numero1, numero2),suma)
-#print(numero1 + numero2) 15
-#print("{}+{}" .format(numero1, numero2)) 10+5
-#print("{}{}" .format(numero1, numero2))
+#suma = numero1+numero2  # Suma dos numeros
+#print("{} + {} =" .format(numero1, numero2),suma)  # Imprime con format
+#print(numero1 + numero2)  # 15
+#print("{}+{}" .format(numero1, numero2))  # 10+5
+#print("{}{}" .format(numero1, numero2))  # Imprime dos valores con el format
