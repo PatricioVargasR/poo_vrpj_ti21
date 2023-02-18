@@ -16,6 +16,10 @@
 |10.|programa9.py|11 formas diferentes|
 |11.|programa10.py|8 formas con funciones|
 |12.|programa11.py|8 formas con funciones pythonic|
+|13.|alumno.py|Uso de las clases|
+|14.|persona.py|Uso de clases y subclases|
+|15.|herencia.py|Muestra de comomo funciona la herencia|
+|16.|POO.py|Herencia, polimorfismo, clases y objetos|
 
 
 

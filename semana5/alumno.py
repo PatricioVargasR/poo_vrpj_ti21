@@ -1,6 +1,6 @@
 """
     Patricio de Jesús Vargas Ramírez
-    14/02/2023
+    13/02/2023
     Descripción: Clases con instancias
 """
 
