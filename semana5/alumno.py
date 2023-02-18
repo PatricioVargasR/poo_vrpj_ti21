@@ -1,3 +1,9 @@
+"""
+    Patricio de Jesús Vargas Ramírez
+    14/02/2023
+    Descripción: Clases con instancias
+"""
+
 class Alumno:  # Creamos una clase
 
     __nombre = None  # Definimos una variable privada 

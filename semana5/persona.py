@@ -1,7 +1,7 @@
 """
     Patricio de Jesús Vargas Ramírez
     13/02/2023
-    Descripción: Herencia
+    Descripción: Clases
 """
 # nombrepersona = str(input("Ingresa tu nombre: "))  # Pedimos un dato desde el teclado
 # correopersona = str(input("Ingresa tu correo: "))  # Pedimos un dato desde el teclado
