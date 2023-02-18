@@ -18,6 +18,6 @@
 |11.|reto11.py|Uso de las clases|
 |12.|reto12.py|Herencia|
 |13.|reto13.py|¿Cuántas veces aparece la letra?|
-
+|14.|reto14.py|¿Cuántas palabras hay en la oración?
 
 
