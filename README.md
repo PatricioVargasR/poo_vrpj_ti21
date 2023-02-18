@@ -20,6 +20,8 @@
 |14.|persona.py|Uso de clases y subclases|
 |15.|herencia.py|Muestra de comomo funciona la herencia|
 |16.|POO.py|Herencia, polimorfismo, clases y objetos|
+|17.|clases_alumno.py|Uso de import para trabajar en diferentes archivos|
+|18.|clases_persona.py|Trabajar con clases desde diferentes archivos|
 
 
 
