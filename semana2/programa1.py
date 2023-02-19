@@ -7,6 +7,12 @@
     de cadenas con cadena de caracteres.
 """
 
+variable1 = "Hola"  # Variable que almacena una cadena de caracteres
+
+variable2 = '619'  # Variable que alamacena un dato entero
+
+print(variable1 + variable2)  # Concatena 2 cadenas
+
 """
 variable1 = "Hola"  # Variable que almacena una cadena de caracteres
 
@@ -33,9 +39,3 @@ variable2 = '619'  # Variable que alamacena un dato entero
 print(variable1 + variable2)  # Concatena 2 cadenas
 Se puede concatenar 2 variables de tipo str con comilla simple
 """
-
-variable1 = "Hola"  # Variable que almacena una cadena de caracteres
-
-variable2 = '619'  # Variable que alamacena un dato entero
-
-print(variable1 + variable2)  # Concatena 2 cadenas
