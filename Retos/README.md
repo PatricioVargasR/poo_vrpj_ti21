@@ -21,5 +21,5 @@
 |14.|reto14.py|¿Cuántas palabras hay en la oración?|
 |15.|reto15.py|La serie de la Fibonacci|
 |16.|reto16.py|¿Esta frase es un palindromo?|
-
+|17.|reto17.py|¿Cúantas veces aparece la palaba?|
 
