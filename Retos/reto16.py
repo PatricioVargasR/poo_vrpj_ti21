@@ -1,5 +1,5 @@
 """
-    Reto13
+    Reto16
     Nombre: Patricio de Jesús Vargas Ramírez
     Fecha: 19/02/2023
     Descripción: ¿Esta frase es un palíndromo?

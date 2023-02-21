@@ -1,5 +1,5 @@
 """
-    Reto13
+    Reto15
     Nombre: Patricio de Jesús Vargas Ramírez
     Fecha: 18/02/2023
     Descripción: ¿Cuántas palabras hay?
