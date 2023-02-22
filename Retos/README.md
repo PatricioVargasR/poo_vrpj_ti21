@@ -22,4 +22,5 @@
 |15.|reto15.py|La serie de la Fibonacci|
 |16.|reto16.py|¿Esta frase es un palindromo?|
 |17.|reto17.py|¿Cúantas veces aparece la palaba?|
+|18.|reto18.py|
 
