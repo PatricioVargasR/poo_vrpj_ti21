@@ -1,7 +1,7 @@
 """
     Reto17
     Nombre: Patricio de Jesús Vargas Ramírez
-    Fecha: 19/02/2023
+    Fecha: 20/02/2023
     Descripción: ¿Cuantas veces sale una palabra?
 """
 
