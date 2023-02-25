@@ -2,7 +2,7 @@
     Reto20
     Nombre: Patricio de Jesús Vargas Ramírez
     Fecha: 23/02/2023
-    Descripción: Palabras son anagramas
+    Descripción: ¿Las palabras son anagramas?
 """
 
 palabra1 = str(input("Ingrese su primera palabra: "))  # Pedimos un palabra
