@@ -1,5 +1,5 @@
 """
-    Reto1i
+    Reto19
     Nombre: Patricio de Jesús Vargas Ramírez
     Fecha: 23/02/2023
     Descripción: Mostrando las tablas de multiplicar a partir de una en especifico
