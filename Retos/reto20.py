@@ -1,7 +1,7 @@
 """
     Reto20
     Nombre: Patricio de Jesús Vargas Ramírez
-    Fecha: 23/02/2023
+    Fecha: 25/02/2023
     Descripción: ¿Las palabras son anagramas?
 """
 
