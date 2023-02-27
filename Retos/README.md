@@ -25,3 +25,4 @@
 |18.|reto18.py|Tablas de multiplicar|
 |19.|reto19.py|Mostrando las tablas de multiplicar a partir de una en especifico|
 |20.|reto20.py| ¿Las palabras son anagramas?|
+|21.|reto21.py|¿Cuántas veces sale la letra a?|
