@@ -5,25 +5,25 @@
     Descripción: ¿Mayusculas o Minusculas?
 """
 
-decision = str(input("Presiona Y para Mayusculas o X para Minusculas: "))
+decision = str(input("Presiona Y para Mayusculas o X para Minusculas: "))  # Ingresamos una cadena de texto
 
-def reescribir(decision: str)-> str:
+def reescribir(decision: str)-> str:  # Creaomos una funció con la cadena como parametro
 
-    decision = decision.lower()
+    decision = decision.lower()  # Hacemos todo minusculas
     
-    if decision == "y":
-        palabra = str(input("Ingresa tu palabra o frase: "))
+    if decision == "y":  # Si la decisión es y
+        palabra = str(input("Ingresa tu palabra o frase: "))  # Pedimos que ingrese una cadena
 
-        palabra = palabra.upper()
-        print("Tu palabra o frase reescrita es: {}" .format(palabra))
+        palabra = palabra.upper()  # Convertimos todo a Mayuscula
+        print("Tu palabra o frase reescrita es: {}" .format(palabra))  # La imprimimos
 
-    elif decision == "x":
-        palabra = str(input("Ingresa tu palabra o frase"))
+    elif decision == "x":  # Si la decisión fue x
+        palabra = str(input("Ingresa tu palabra o frase"))  # Pedimos una cadena
+ 
+        palabra = palabra.lower()  # Convertimos todo a Minusculas
+        print("Tu palabra o frase reescrita es: {} " .format(palabra))  # Imprimimos la cadena
 
-        palabra = palabra.lower()
-        print("Tu palabra o frase reescrita es: {} " .format(palabra))
+    else:  # Si no fue ninguna
+        print("No has escrito ninguna de las opciones disponibles")  # Imprime un mensaje
 
-    else:
-        print("No has escrito ninguna de las opciones disponibles")
-
-reescribir(decision)
+reescribir(decision)  # Llamamos a la función

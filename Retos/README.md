@@ -29,3 +29,4 @@
 |22.|reto22.py|¿Mayusculas o Minusculas?|
 |23.|reto23.py|Uso de librerías para conocer la fecha actual|
 |24.|reto24.py|¿Cuántas consonantes y cuantas vocales?|
+|25.|reto25.py|
