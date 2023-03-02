@@ -28,3 +28,4 @@
 |21.|reto21.py|¿Cuántas veces sale la letra a?|
 |22.|reto22.py|¿Mayusculas o Minusculas?|
 |23.|reto23.py|Uso de librerías para conocer la fecha actual|
+|24.|reto24.py|
