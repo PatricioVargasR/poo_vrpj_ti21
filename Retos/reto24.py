@@ -1,7 +1,7 @@
 """
     Reto24
     Nombre: Patricio de Jesús Vargas Ramírez
-    Fecha: 28/02/2023
+    Fecha: 01/03/2023
     Descripción: ¿Cuántas consonantes y consonantes?
 """
 
